@@ -1,0 +1,28 @@
+name: Sanditest
+favicon: null
+layout_spectrum: 0.23190683987922966
+typography_spectrum: 0.4172355269547552
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5596780937630683
+  lightness: 0.09332305961288512
+  saturation: 0.7632400819566101
+  rhythmicContrast: 0.051218566251918674
+purpose: []
